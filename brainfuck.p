@@ -20,6 +20,7 @@ extend_searchlist(
 ) -> vedhelplist;
 
 uses addlanguage
+uses brainfuck_compiler
 uses brainfuck_reset
 
 include subsystem.ph;
